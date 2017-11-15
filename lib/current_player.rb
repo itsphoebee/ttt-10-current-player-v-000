@@ -4,7 +4,7 @@ def turn_count(board)
     puts "#{turn} turns have been taken"
     counter += 1
 end
-end
+
 
 def current_player(board)
 
