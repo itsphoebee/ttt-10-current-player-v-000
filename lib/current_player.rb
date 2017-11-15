@@ -15,4 +15,3 @@ elsif counter % 2 == 1
   return "O"
 end
 end
-
