@@ -1,8 +1,6 @@
 
 def turn_count(board)
-counter = 3
 
-end
 end
 
 
