@@ -1,6 +1,7 @@
 def turn_count(board)
   counter = 0
-  if turn_count.each do
+  turn_count.each do |turn|
+    puts "#{turn} turns have been taken"
     counter += 1
 end
 end
